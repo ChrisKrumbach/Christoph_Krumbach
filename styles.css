@@ -1,0 +1,119 @@
+body {
+	font-family: Verdana, sans-serif;
+}
+
+.nav-link {
+	color: white!important;
+}
+
+.bg-body-tertiary {
+	background-color: #08a1de!important;
+}
+
+#logo {
+	width: 100px;
+}
+
+.dropdown-menu {
+	background-color: #08a1de;
+}
+
+.dropdown-item {
+	color: white;
+}
+
+.cienporciento {
+	width: 100%;
+}
+
+.centrado {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+#div_telefonos_portada {
+	margin-top: 60px;
+	background-color: #009edb;
+	opacity: 97%;
+}
+
+#telefonos_portada {
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	font-weight: 600;
+}
+
+#texto_portada {
+	padding: 100px 0 50px 0;
+	text-align: center;
+}
+
+.btn-normal {
+	background-color: #08a1de;
+	color: white;
+}
+
+
+#cards-celulares {
+	margin-bottom: 100px;
+}
+
+#footer {
+	background-color: #08a1de;
+	height: 100px;
+	padding-top: 10px;
+}
+
+#logo-footer {
+	height: 80px;
+}
+
+.card-inicio {
+	background-color: #08a1de;
+	color: white;
+}
+
+.card-body a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+#div-titulo-android {
+	margin-top: 60px;
+	height: 200px;
+	color: white;
+	background: url(img/telefonos_android_oscura.jpg) no-repeat center center;
+	text-align: center;
+}
+
+#div-titulo-android h1{
+	line-height: 200px;
+}
+
+#cards-android {
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+
+.card h2 {
+	font-weight: bold;
+}
+
+#div-titulo-iphone {
+	margin-top: 60px;
+	height: 200px;
+	color: white;
+	background: url(img/telefonos_apple3_oscura2.jpg) no-repeat center center;
+	text-align: center;
+}
+
+#div-titulo-iphone h1{
+	line-height: 200px;
+}
